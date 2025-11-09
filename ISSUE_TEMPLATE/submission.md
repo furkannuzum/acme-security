@@ -119,7 +119,7 @@ Please confirm:
 - [x] GitHub
 
 **Best time to reach you:**
-[Your availability here, e.g., "Weekdays after 5 PM TRT"]
+all time :)
 
 ---
 
