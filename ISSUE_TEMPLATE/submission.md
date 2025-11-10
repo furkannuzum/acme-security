@@ -10,7 +10,7 @@ assignees: ''
 
 **Full Name:** Furkan Üzüm
 **Email:** [Your Email Here]
-**LinkedIn:** [https://www.linkedin.com/in/furkannuzum/](https://www.linkedin.com/in/furkannuzum/)
+**LinkedIn:** [https://www.linkedin.com/in/furkannuzum/]
 **Location:** Mamak/Ankara
 **Submission Date:** 16.10.2024
 
@@ -19,8 +19,8 @@ assignees: ''
 ## 📎 Submission Files
 
 **Option A: Attached Files**
-- **Report PDF:** [Attach here]
-- **Video Link:** [YouTube / Vimeo / Loom link]
+- **Report PDF:** [https://github.com/furkannuzum/acme-security/blob/main/submissions/f%C3%BCrkan-%C3%BCz%C3%BCm/F%C3%BCrkan_%C3%9Cz%C3%BCm_Report.pdf]
+- **Video Link:** [[YouTube / Vimeo / Loom link](https://www.youtube.com/watch?v=5AHTkB-1GEY)]
 
 **Option B: External Links**
 - **Report:** [Google Drive / Dropbox link]
